@@ -212,13 +212,27 @@ The overview provides the primary business KPIs and transaction-level informatio
 
 This view focuses on Top 5 and Bottom 5 products based on sales, quantity, and profit.
 
-![Product Performance](images/product-performance.png)
+![Product Performance](https://github.com/PrajwalMirji44/Sales-Product-Analytics-Dashboard/blob/main/Top%20and%20Bottom%20.png)
 
 ### Sales & Promotion Analysis
 
 This section combines geographic sales distribution, promotion analysis, profit vs net sales, and sales trends.
 
-![Sales Analysis](images/sales-analysis.png)
+![Sales Analysis](https://github.com/PrajwalMirji44/Sales-Product-Analytics-Dashboard/blob/main/Sales%2Cprofit%2Csales.png)
+
+
+### Table Visual
+
+This is the table view
+
+![Table View](https://github.com/PrajwalMirji44/Sales-Product-Analytics-Dashboard/blob/main/Table%20Visual.png)
+
+
+### Edit Interaction
+
+We can view data by changing dates
+
+![Edit Interaction](https://github.com/PrajwalMirji44/Sales-Product-Analytics-Dashboard/blob/main/Edit%20Interactions.png)
 
 ---
 
