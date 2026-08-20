@@ -206,7 +206,7 @@ Some of the key observations from the analysis include:
 
 The overview provides the primary business KPIs and transaction-level information, with interactive filters for customer, product, promotion, and date.
 
-![Sales Overview](images/sales-overview.png)
+![Sales Overview](https://github.com/PrajwalMirji44/Sales-Product-Analytics-Dashboard/blob/main/Overiew.png)
 
 ### Product Performance
 
